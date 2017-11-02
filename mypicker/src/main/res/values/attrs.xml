@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PickerView">
+        <attr name="TextSize" format="integer"></attr>
+        <attr name="mEndText" format="string"></attr>
+    </declare-styleable>
+</resources>
